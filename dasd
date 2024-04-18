@@ -1,0 +1,26 @@
+[33mcommit abc0ea0d95f98df61cda58d8c124e5b4e96d2007[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 17841 d7357
+Author: Gab0 <darkrobin52@gmail.com>
+Date:   Wed Mar 27 19:09:11 2024 -0400
+
+    Merge branch 'main' of https://github.com/nis3kur0/search-app-svelte
+
+[33mcommit 178414408cc518150a48f77c6ad8a32c3e45be06[m
+Author: Gab0 <darkrobin52@gmail.com>
+Date:   Wed Mar 27 19:01:55 2024 -0400
+
+    agregado onMount y detalles clave
+
+[33mcommit d7357900919debd716299767aede3a95b2e67fb0[m
+Author: nis3kur0 <162525921+nis3kur0@users.noreply.github.com>
+Date:   Wed Mar 27 13:49:52 2024 -0400
+
+    Update +page.svelte
+    
+    revision
+
+[33mcommit 29811bbf30ab86911c9fa8fcf154e469a443a39f[m
+Author: Gab0 <darkrobin52@gmail.com>
+Date:   Tue Mar 26 20:03:31 2024 -0400
+
+    svelte, faltan detalles
